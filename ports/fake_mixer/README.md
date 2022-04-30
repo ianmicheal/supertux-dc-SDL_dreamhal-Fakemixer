@@ -1,4 +1,4 @@
-Fake_mixer This is a fork of it not my projects but I'm looking into it..100% credits to INDIKET
+Fake_mixer  INDIKET Updated Ian micheal to kos 2.0
 ==========
 
 Dreamcast fake SDL_Mixer library - Uses KOS functions to play sound and music.
